@@ -1,8 +1,12 @@
-# React + Vite
+# Quiz App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Technologies
 
-Currently, two official plugins are available:
+**React**: For building user interface components.
+**Vite**: For fast development and build processes.
+**Zustand**: For simple and efficient state management.
+**Tanstack Query**: For data fetching and caching.
+**Tailwind**: For utility-first, responsive styling.
+**Lucide**: For icons used in the quiz interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Demo: https://quiz-app-case.netlify.app
